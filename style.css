@@ -1,0 +1,47 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+header{
+    background-color: black;
+    color: white;
+    text-align: center;
+    height: 20vh;
+    padding: 10px;
+}
+body{
+    background-color: beige;
+    height: 100vh;
+
+}
+main{
+    height: 40vh;
+    padding: 20px;
+
+}
+#menu{
+    text-align: center;
+    padding: 10px;
+}
+table{
+    margin: 0 auto;
+    width: 90%;
+    border-collapse: collapse;
+    height: 25vh;
+    margin-top: 10px
+}
+#head{
+    background-color: green;
+    color: white;
+    height: 45px;
+}
+td{
+    background-color: lightslategray;
+    color: white;
+    text-align: center;
+}
+#text{
+    padding: 10px;
+    font-weight: bold;
+
+}
